@@ -7,12 +7,12 @@ from typing import Dict, Any
 @dataclass
 class TradingConfig:
     """交易配置数据类"""
-    # 基础配置
+    # 基础配置【BACKTEST:回测模式, MODE_LIVE:模拟盘实盘模式】
     mode: str = 'BACKTEST'
     strategy_id: str = "策略id"
     token: str = os.getenv('GM_TOKEN', '掘金量化token')
     benchmark: str = "SHSE.000300"
-    strategy_name: str = "高PE策略"
+    strategy_name: str = "策略名称"
     # AI-token
     ai_token: str = "deepseek服务token"
 

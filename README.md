@@ -84,6 +84,17 @@ jb_quant/
 
 ### 1. 环境准备
 
+---
+### 安装 Python 运行环境参考：  
+[https://blog.csdn.net/fdsfsdfsdgfdhr/article/details/151198947?spm=1011.2415.3001.5331](https://blog.csdn.net/fdsfsdfsdgfdhr/article/details/151198947?spm=1011.2415.3001.5331)
+
+### 安装掘金量化客户端参考：  
+[https://blog.csdn.net/fdsfsdfsdgfdhr/article/details/151269368?spm=1011.2415.3001.5331](https://blog.csdn.net/fdsfsdfsdgfdhr/article/details/151269368?spm=1011.2415.3001.5331)
+
+---
+
+### 2. 获取项目并安装依赖
+
 ```bash
 # 克隆项目
 git clone <repository-url>
