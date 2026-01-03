@@ -91,6 +91,9 @@ jb_quant/
 ### 安装掘金量化客户端参考：  
 [https://blog.csdn.net/fdsfsdfsdgfdhr/article/details/151269368?spm=1011.2415.3001.5331](https://blog.csdn.net/fdsfsdfsdgfdhr/article/details/151269368?spm=1011.2415.3001.5331)
 
+### 安装PyCharm编程软件参考：  
+[https://blog.csdn.net/zhang120529/article/details/156021001](https://blog.csdn.net/zhang120529/article/details/156021001)
+
 ---
 
 ### 2. 获取项目并安装依赖

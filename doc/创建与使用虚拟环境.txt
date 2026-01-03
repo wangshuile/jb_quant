@@ -1,0 +1,13 @@
+# 创建虚拟环境
+conda create -n jb_quant python=3.9
+
+# 激活虚拟环境
+conda activate jb_quant
+
+# 退出虚拟环境
+conda deactivate
+
+# 查看虚拟环境【安装目录】
+conda env list
+# 删除虚拟环境
+conda env remove -n myenv
