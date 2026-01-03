@@ -266,7 +266,7 @@ print(f"夏普比率: {summary['sharpe_ratio']:.2f}")
 
 
 ### 社群資源
-- **Bilibili**: [影片教學](https://space.bilibili.com/your-channel)
+- **Bilibili**: [影片教學](https://space.bilibili.com/524125327)
 
 ## 🛠️ 商務合作
 

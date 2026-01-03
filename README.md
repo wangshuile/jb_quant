@@ -279,7 +279,7 @@ print(f"夏普比率: {summary['sharpe_ratio']:.2f}")
 
 
 ### 社区资源
-- **Bilibili**: [视频教程](https://space.bilibili.com/your-channel)
+- **Bilibili**: [视频教程](https://space.bilibili.com/524125327)
 
 ## 🛠️ 商务合作
 

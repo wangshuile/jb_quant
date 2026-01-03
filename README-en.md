@@ -268,7 +268,7 @@ Your support helps us maintain and improve the project:
 
 
 ### Community Resources
-- **Bilibili**: [Video Tutorials](https://space.bilibili.com/your-channel)
+- **Bilibili**: [Video Tutorials](https://space.bilibili.com/524125327)
 
 ## 🛠️ Business Cooperation
 
